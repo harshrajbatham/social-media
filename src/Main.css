@@ -1,0 +1,11 @@
+
+@media (max-width: 768px) {
+    .responsive-input {
+      width: 100%; /* Make the input full-width on smaller screens */
+    }
+  
+    .responsive-posts {
+      display: flex;
+      flex-direction: column; /* Display posts in a single column on smaller screens */
+    }
+  }
